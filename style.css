@@ -1,0 +1,49 @@
+      h1 {
+        font-family: Arial, Verdana, Sans-serif;
+        text-align: center;
+        color: #ee3e80;
+        border-bottom: 5px solid #3C8DC5;
+        padding-bottom: 15px;
+      }
+      h2 {
+        font-family: Arial, Verdana, Sans-serif;
+        text-align: center;
+      }
+      table {
+        margin-left:auto; 
+        margin-right:auto;
+        text-align: center;
+        font-family: Arial, Verdana, Sans-serif;
+        width:900px;
+        padding: 2px;
+        border: 5px solid #ee3e80;
+        border-radius: 10px;
+      }
+      th, td {
+        padding: 8px;
+      }
+      th {
+        color: #ffffff;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        font-size: 90%;
+        border-bottom: 2px;
+        text-align: center;
+        background-color: #3C8DC5;
+      }
+      tr.odd {
+        background-color: #B2D1E5;
+      }
+      tr.even {
+        background-color: #E9F2F9;
+      }
+      footer {
+        margin-top: 50px;
+        color: #ffffff;
+        font-family: Arial, Verdana, Sans-serif;
+        font-size: .9em;
+        text-align: center;
+        padding: 5px;
+        background-color: #3C8DC5;
+      }
+      
