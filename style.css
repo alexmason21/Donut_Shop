@@ -63,7 +63,6 @@
 
       td:hover {
         background: lightsteelblue;
-<<<<<<< HEAD
       }
 
       button {
@@ -100,9 +99,6 @@
         text-align: center;
         margin: 25px auto 25px auto;
       }
-=======
-      }
-
       button {
         background: #3498db;
         background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
@@ -137,4 +133,4 @@
         text-align: center;
         margin: 25px auto 25px auto;
       }
->>>>>>> origin/master
+
