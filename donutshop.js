@@ -104,4 +104,8 @@
     console.log("Donuts per hour: " + shop.dph;
     console.log("---------------------------------------------");
   }
+<<<<<<< HEAD
   */
+=======
+  */
+>>>>>>> origin/master
